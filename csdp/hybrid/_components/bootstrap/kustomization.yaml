@@ -17,7 +17,7 @@ patches:
                 "path": "csdp/base_components/git-sources/**/config_dir.json"
               }
             ],
-            "repoURL": "https://github.com/codefresh-io/csdp-official.git",
+            "repoURL": "https://github.com/danielm-codefresh/csdp-official.git",
             "requeueAfterSeconds": 15,
             "revision": "RUNTIME_VERSION",
             "template": {
